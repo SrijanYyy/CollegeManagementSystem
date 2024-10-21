@@ -1,1 +1,1 @@
-# CollegeManagementSystem
+# LaptopInventoryManagementSystem
